@@ -1,3 +1,6 @@
+# Motors test.
+
+```c
 // Configuration Registers.
 #pragma config WPFP = WPFP511, WPDIS = WPDIS, WPCFG = WPCFGDIS
 #pragma config WPEND = WPENDMEM, POSCMOD = EC, IOL1WAY = ON, OSCIOFNC = OFF
@@ -111,3 +114,6 @@ int main(void)
     while(1){};
     return(0);
 }
+```
+
+---

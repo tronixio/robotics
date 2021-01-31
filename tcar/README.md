@@ -12,6 +12,10 @@
 - [TODO - MCU Board - Rev.A.](./tcar-mcu.pdf)
 - [DRAFT - Motor Board L298P - Rev.B.](./tcar-motor-l298p.pdf)
 
+## Code Examples.
+
+- [DRAFT - Motor test](./pic24fj-motors.md)
+
 ## Motor board L298P top.
 
 ![Motor Board L298P Top](./pics/tcar-motor-l298p-top.png)
