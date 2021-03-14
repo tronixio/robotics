@@ -1,6 +1,5 @@
 # Robotics.
 
-- [DRAFT - TBOT - 2 Wheels.](./tbot/README.md)
 - [DRAFT - TCAR - 4 Wheels.](./tcar/README.md)
 - [DRAFT - TZUMO - 2 Tracks.](./tzumo/README.md)
 
